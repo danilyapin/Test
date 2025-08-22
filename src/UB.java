@@ -5,8 +5,8 @@ public class UB {
 
         String name = "";
         String name1 = "Daniel";
-        int age = 18;
-        int age1 = 15;
+        int age = 34;
+        int age1 = 45;
 
         register(name1, age);
         register(name1, age1);
